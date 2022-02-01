@@ -1,0 +1,172 @@
+<html>
+<head>
+<title>Andhra Pradesh</title>
+</head>
+<body bgcolor="snow" leftmargin="60" topmargin="55" text="black">
+<marquee direction="down" height="100" width="200" bgcolor="white">Amazing Andhra Pradesh</marquee>
+<p align="centre">
+<h1 align="centre">
+ABOUT THE STATE
+</h1><h4 align="center">Do you love to eat spicy food? Yes? Then try out the Andhra Thali. But, first you must know about Andhra Pradesh, the culture, the food,
+places to travel in the state. So, Andhra Pradesh is a state located in South Eastern India on the Eastern Ghats. The capital is Amravati. It is the 7th largest state 
+in India. It is bordered by Telangana to the north-west, Chhattisgarh to the north, Odisha to the north-east, Tamil Nadu to the south, Karnataka to the west and the 
+Bay of Bengal to the east. It has the second longest coastline in India after Gujarat, of about 974 km (605 mi).Andhra Pradesh is the first state to be formed on a 
+linguistic basis in India on 1 October 1953.It covers an area of 162,975 km2 (62,925 sq mi) is the tenth-most populous state with 49,386,799 inhabitants.The state was 
+once a major Buddhist pilgrimage site in the country and a Buddhist learning center which can be seen in many sites in the state in the form of monastery ruins, 
+chaityas and stupas.Locally mined diamonds include the Koh-i-Noor from Kollur Mine.It is also a major producer of rice known as the "rice bowl of India".Its official 
+language is Telugu; one of the classical languages of India, the fourth most spoken language in India and the 11th-most spoken language in the world. It has a long 
+history, lets learn more about it. </h4>
+<b> Here is a map of the state, a political and a geographical map</b>
+<br>
+<br>
+<img src= "andhrapradesh political.jpg" height='300px' width='300px' alt=""> 
+<img src= "andhrapradesh physical.jpg" height='300px' width='300px' alt=""> 
+</p>
+
+<p align="centre">
+<h1 align="centre">
+HISTORY
+</h1><h4 align="centre"></h4>Archaeological evidences suggest that the Andhra region was a part of the Mauryan Empire. The Satavahana dynasty dominated the Deccan 
+region from the 1st century BCE to the 3rd century CE. The later Satavahanas made Dharanikota and Amaravathi their capital, which according to the Buddhists is the 
+place where Nagarjuna, the philosopher of Mahayana lived in the 2nd and 3rd centuries. The Andhra Ikshvakus, with their capital at Vijayapuri, succeeded the Satavahanas
+in the Krishna River valley in the latter half of the 2nd century. Pallavas, who were originally executive officers under the Satavahana kings, were not a 
+recognised political power before the 2nd century CE and were swept away by the Western Chalukyan invasion, led by Pulakesin II in the first quarter of the 7th century 
+CE.After the downfall of the Ikshvakus, the Vishnukundinas were the first great dynasty in the 5th and 6th centuries, and held sway over the entire Andhra country, 
+including Kalinga and parts of Telangana. They played an important role in the history of Deccan during the 5th and 6th century CE, with Eluru, Amaravathi and 
+Puranisangam. Harihara and Bukka, who served as treasury officers of the Kakatiyas of Warangal, founded the Vijayanagara Empire.In 1347 CE, an independent Muslim state,
+the Bahmani Sultanate, was established in south India by Ala-ud-Din Bahman Shah in a revolt against the Delhi Sultanate. The Qutb Shahi dynasty held sway over the 
+Andhra country after the resolution of Vijayanagar empire by joint action of Mughals, Bijapur and Golconda sultanates. In the early nineteenth century, Northern Circars
+was ceded to the British East India Company and became part of the Madras Presidency. Eventually, this region emerged as the Coastal Andhra region. Later the Nizam 
+rulers of Hyderabad ceded five territories to the British that eventually became the Rayalaseema region. The Nizams retained control of the interior provinces as the 
+princely state of Hyderabad, acknowledging British rule in return for local autonomy. However, Komaram Bheem, a tribal leader, started his fight against the erstwhile 
+Asaf Jahi Dynasty for the liberation of Hyderabad State.Meanwhile, the French occupied Yanam, in the Godavari delta, and (save for periods of British control) would 
+hold it until 1954. In 1947, Vizianagaram was the largest Hindu princely state in Andhra Pradesh. In 1839 just before the British Raj, a cyclone struck Coringa, East 
+Godavari district and toppled buildings, as a result 20,000 ships were destroyed and over 300,000 people were killed. India became independent from the British Raj in 
+1947. The Nizam wanted to retain the independence of the Princely Hyderabad State from India, but the people of the region launched a movement to join the Indian Union.
+The state of Hyderabad was integrated into the Indian Union with Operation Polo in 1948.<br>
+<b>Gandikota Fort View</b>
+<br>
+<img src= "Gandikota_fort_view.jpg" height='300px' width='300px' alt=""> 
+</p>
+
+<p align="centre">
+<h1 align="centre">
+CLIMATE
+</h1><h4 align="centre">The climate of Andhra Pradesh varies considerably, depending on the geographical region. Summers last from March to June. In the coastal plain,
+the summer temperatures are generally higher than the rest of the state, with temperature ranging between 20 and 41 °C (68 and 106 °F). July to September is the season
+for tropical rains. About one-third of the total rainfall is brought by the northeast monsoon. October and November see low-pressure systems and tropical cyclones form
+in the Bay of Bengal which, along with the northeast monsoon, bring rains to the southern and coastal regions of the state. November, December, January, and February 
+are the winter months in Andhra Pradesh. Since the state has a long coastal belt the winters are not very cold. The range of winter temperature is generally 12 to 30 °C
+(54 to 86 °F). Lambasingi in Visakhapatnam district is also nicknamed as the "Kashmir of Andhra Pradesh" due to its relatively cool climate as compared to others and 
+the temperature ranges from 0 to 10 °C (32 to 50 °F).</h4>
+<b> Here is a map of the state, a political and a geographical map</b>
+<br>
+<br>
+<img src= "temp.png" height='300px' width='300px' alt=""> 
+</p>
+
+<p align="centre">
+<h1 align="centre">
+FOOD
+</h1><h4 align="centre"><b>
+<font color='yellow' size='4'>
+<ol>
+<ul>
+<li> FOOD </li>
+</font>
+<font color='orange' size='4'>
+<ol type='i'>
+<li>Pulihora</li>
+<li>Andhra Chicken Biryani</li>
+<li>Curd Rice</li>
+<li>Medu Vada</li>
+<li>Uppindi</li>
+<li>Royyala Yepaddu</li>
+<li>Gutti Vankaya Kura</li>
+</ul>
+</ol>
+</font>
+<b>Andhra Chicken Biryani</b>
+<br>
+<img src= "biryani.jpg" height='300px' width='300px' alt="">
+<img src= "apfood.jpg" height='300px' width='300px' alt="">
+<img src= "apfood2.jpg" height='300px' width='300px' alt="">
+</p>
+
+<h1 align="centre">
+CLOTHES
+</h1><h4 align="centre"><b>
+<font color='yellow' size='4'>
+<ul>
+<li> CLOTHES </li>
+</font>
+<font color='orange' size='4'>
+<ol type='i'>
+<li>Lungi and Shirt/Dhoti and Kurta for Men</li>
+<li>Sari/Langa Voni for Women</li>
+</ol>
+</ul>
+</font>
+<b>Clothes of Andhra Pradesh</b>
+<br>
+<img src= "clothes.jpg" height='300px' width='300px' alt="">
+<img src= "clothes2.jpg" height='300px' width='300px' alt="">
+</p>
+
+<p align="centre">
+<h1 align="centre">
+PLACES TO VISIT
+</h1><h4 align="centre"><b>
+<font color='yellow' size='4'>
+<ul>
+<li> PLACES TO VISIT </li>
+</font>
+<font color='orange' size='4'>
+<ol type='i'>
+<li>Vishkapatnam</li>
+<li>Vijaywada</li>
+<li>Tirupati</li>
+<li>Amravati</li>
+<li>Viazg</li>
+<li>Mantrayalam</li>
+<li>Talakona Waterfalls</li>
+</ol>
+</ul>
+</font>
+<b>Amravati, Andhra Pradesh</b>
+<br>
+<img src= "amravati.jpg" height='300px' width='300px' alt="">
+<img src= "tirupati.jpg" height='300px' width='300px' alt="">
+</p>
+
+<p align="centre">
+<h1 align="centre">
+DANCE FORMS
+</h1><h4 align="centre"><b>
+<font color='yellow' size='4'>
+<ul>
+<li> DANCE FORMS </li>
+</font>
+<font color='orange' size='4'>
+<ol type='i'>
+<li>Burrakatha-Storytelling technique</li>
+<li>Veeranatyam-Ritual performed in the temples of Shiva</li>
+<li>Kuchipudi-Originated from Indian village of Kuchipudi in Andhra Pradesh from Hindu Sanskrit text</li>
+</ol>
+</ul>
+</font>
+<b>Dance of Andhra Pradesh</b>
+<br>
+<img src= "dance.jpg" height='300px' width='300px' alt="">
+<img src= "dance2.jpg" height='300px' width='300px' alt="">
+</p>
+
+<div class="section">
+<h1><span>Contact Me</span></h1>
+<form>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSch0ovt993_UEa08zwrjESsHnuBvvknW9klDeI7skbEz2nXpQ/viewform?embedded=true" width="640" height="1682" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</form>
+</div>
+
+</body>
+</html>
